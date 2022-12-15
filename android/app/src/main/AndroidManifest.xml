@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.shriyanshjain.blog">
    <application
-        android:label="blog"
+        android:label="Financial Blog"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
